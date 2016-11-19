@@ -1,3 +1,6 @@
 # PennPopulation
-I choose to do a topographical map for Pennsylvania, but I was unfortunately, unable to create the Topojson file.
-Instead I just recreated the California example with two buttons enabling to change the color of the state to blue and then back to original red.  I wanted to get to the county boundaries and census but then again ran into creating the Topojson file  
+I choose to do a topographical map for Pennsylvania.
+This map is based off Mike Bostock's California Density Population, the following is a link to it: https://bl.ocks.org/mbostock/5562380
+
+Please enable unsafe scripts on your browser when viewing the website of my map. If you don't, it may not display the map but will display everything else.  Clicking change color will change the color to blue and reset will change it back to red.
+I wasn't able to create buttons to remove the boundary lines or state lines
